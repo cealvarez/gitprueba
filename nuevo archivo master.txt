@@ -1,1 +1,1 @@
-nuevo archivo rama1
+archivo mergeado
